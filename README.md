@@ -38,6 +38,8 @@ With a solid background in IT-Consulting, Data Science, and ERP Systems, I aim t
 
 ## Currently Learning
 - Advanced machine learning techniques
+- Deep Learning
+- Natural Language Processing
 - AI and its applications in business
 
 ## Languages
