@@ -46,7 +46,7 @@ These useful tools and methods have assisted me in better developing and underst
 
 - Machine Learning von A-Z: Lerne Python & R für Data Science ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
 - Deep Learning, Neuronale Netze & AI: Der Komplettkurs ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
-- Linear Algebra: Der Komplettkurs ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
+- Linear Algebra ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
   
 ## Languages
 - German: Native
