@@ -40,7 +40,7 @@ These useful tools and methods have assisted me in better developing and underst
 ## Currently Learning
 - Advanced machine learning techniques
 - Deep Learning
-- Natural Language Processing
+- Computer Vision
 - AI and its applications in business
 
 ## My Certificates 
