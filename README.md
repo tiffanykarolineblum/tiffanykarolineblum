@@ -19,6 +19,7 @@ These useful tools and methods have assisted me in better developing and underst
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=flat)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat)
 ![BPMN 2.0](https://img.shields.io/badge/-BPMN%202.0-0D6EB6?logo=bpmn&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-green?logo=opencv&logoColor=white&style=flat)
 
 
 ## Education
@@ -47,6 +48,7 @@ These useful tools and methods have assisted me in better developing and underst
 - Machine Learning von A-Z: Lerne Python & R für Data Science ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
 - Deep Learning, Neuronale Netze & AI: Der Komplettkurs ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
 - Linear Algebra ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
+- OpenCV ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
   
 ## Languages
 - German: Native
