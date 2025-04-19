@@ -20,24 +20,32 @@ These useful tools and methods have assisted me in better developing and underst
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat)
 ![BPMN 2.0](https://img.shields.io/badge/-BPMN%202.0-0D6EB6?logo=bpmn&logoColor=white&style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-green?logo=opencv&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
 
 
 ## Education
 ### Hochschule Konstanz Technik Wirtschaft und Gestaltung (Oct 2023 - Present)
 - MSc in Computer Science
 - Focus: IT-Management
-- Specialization: Machine Learning, Deep Learning, Natural Language Processing, Data Science, IT-Consulting
+- Specialization: Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Databases, Data Science, IT-Consulting
+  
 ### Hochschule Furtwangen (Mar 2019 - Mar 2023)
 - BSc in Business Networks and e-Business
 - Focus: Databases, Programming, IT Project Management, ERP Systems
 - Bachelor Thesis: Optimizing Customer Experience through Customer Journey Mapping
 
 ## Work Experience
-- Working Student - Sybit GmbH, Radolfzell am Bodensee (Jan 2023 - Present)
-- Bachelor Student - Sybit GmbH, Radolfzell am Bodensee (Sep 2022 - Dec 2022)
+- Master Thesis - Uncertainty Estimation and Active Learning for Damage Detection (Mar 2025 - current)
+- Working Student in AI - Koerber Konstanz (Jan 2025 - Feb 2025)
+- Working Student - Sybit GmbH, Radolfzell am Bodensee (Jan 2023 - Dec 2024)
+- Bachelor Thesis Student - Sybit GmbH, Radolfzell am Bodensee (Sep 2022 - Dec 2022)
 - IT Consulting Intern - Sybit GmbH, Radolfzell am Bodensee (Mar 2022 - Sep 2022)
 
 ## Currently Learning
+- Uncertainty Estimation
+- Active Learning
 - Advanced machine learning techniques
 - Deep Learning
 - Computer Vision
