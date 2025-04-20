@@ -43,13 +43,11 @@ These useful tools and methods have assisted me in better developing and underst
 - Bachelor Thesis Student - Sybit GmbH, Radolfzell am Bodensee (Sep 2022 - Dec 2022)
 - IT Consulting Intern - Sybit GmbH, Radolfzell am Bodensee (Mar 2022 - Sep 2022)
 
-## Currently Learning
-- Uncertainty Estimation
-- Active Learning
-- Advanced machine learning techniques
-- Deep Learning
+## Currently Deepening My Knowledge In:
+- Uncertainty Estimation & Active Learning
+- Advanced Machine Learning & Deep Learning
 - Computer Vision
-- AI and its applications in business
+- AI in Business Applications
 
 ## My Certificates 
 
@@ -60,7 +58,7 @@ These useful tools and methods have assisted me in better developing and underst
   
 ## Languages
 - German: Native
-- English: Fluent (second native language)
+- English: Fluent (near-native proficiency)
 
 <!---
 tiffanykarolineblum/tiffanykarolineblum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
