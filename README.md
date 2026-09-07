@@ -1,66 +1,125 @@
-# Hi, I'm Tiffany Blum 
+# Hi, I'm Tiffany Blum 👋
 
-Welcome to my GitHub! I'm a passionate MSc student in Computer Science with a focus on IT Management, based in Radolfzell am Bodensee, Germany. 
-With a solid background in IT-Consulting, Data Science, and ERP Systems, I aim to create solutions that enhance customer experiences through efficient business processes and modern technology.
+I'm a Software Engineer with an M.Sc. in Computer Science, specializing in Python software development, machine learning, deep learning, and computer vision.
 
-##  Technical Skills
+I currently develop modular control and visualization software for automated semiconductor equipment. My work combines Python development, state-driven system design, industrial interfaces, testing, and systematic debugging.
 
-These useful tools and methods have assisted me in better developing and understanding complex machine learning projects.
+Previously, I worked on deep learning for image-based damage detection, with a focus on uncertainty estimation, active learning, model evaluation, and explainable computer vision.
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white&style=flat)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=flat)
-![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=flat)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=flat)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=flat)
-![BPMN 2.0](https://img.shields.io/badge/-BPMN%202.0-0D6EB6?logo=bpmn&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-green?logo=opencv&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+## Featured Projects
 
+### ContextRAG API
+
+A lightweight retrieval-augmented generation application built with Python and FastAPI.
+
+* Indexes and searches local documents using embeddings and vector search
+* Generates context-grounded answers with supporting source passages
+* Provides validated API endpoints using FastAPI and Pydantic
+* Supports a configurable LLM backend
+* Includes basic automated tests
+
+**Tech:** Python · FastAPI · Pydantic · RAG · Embeddings · Vector Search · LLM Integration
+
+### Vision Inference API
+
+A compact model-serving API for computer vision applications.
+
+* Accepts and validates image uploads through a REST API
+* Runs inference using a pretrained PyTorch vision model
+* Returns structured predictions and inference-time metrics
+* Generates visualized model results
+* Includes API tests and reproducible setup instructions
+
+**Tech:** Python · FastAPI · PyTorch · OpenCV · Pydantic · Computer Vision · Model Serving
+
+## Technical Skills
+
+### Software Engineering
+
+* Object-oriented and event-driven development
+* State machines and asynchronous workflows
+* REST APIs and systems integration
+* Testing, debugging, and root-cause analysis
+* Git and GitLab
+
+### AI, Machine Learning & Computer Vision
+
+* Deep learning and convolutional neural networks
+* Model training, validation, and performance evaluation
+* Active learning and uncertainty estimation
+* Saliency maps and explainable image classification
+* Retrieval-augmented generation, embeddings, and vector search
+
+### Data & Industrial Systems
+
+* SQL, MongoDB, and Neo4j
+* Beckhoff TwinCAT and Python ADS integration
+* Data analysis and visualization with pandas and Matplotlib
+
+## Professional Experience
+
+### Software Engineer — On Nano International GmbH
+
+**March 2026 – Present**
+
+* Developing modular control and visualization software for automated semiconductor equipment using Python and PyQt5
+* Designing state-driven workflows for robots, ports, and process stations
+* Integrating Beckhoff TwinCAT PLC interfaces using `pyads`
+* Testing and debugging complex asynchronous equipment processes
+
+### Master's Thesis Researcher — Körber Supply Chain Logistics
+
+**March 2025 – August 2025**
+
+* Developed a PyTorch workflow for image-based damage detection
+* Applied uncertainty estimation and active learning
+* Trained, evaluated, and compared neural networks
+
+### Working Student, Artificial Intelligence — Körber Supply Chain Logistics
+
+**January 2025 – February 2025**
+
+* Annotated image datasets and trained neural networks
+* Evaluated model performance
+* Enhanced saliency-map tooling for explainable image classification
+
+### Working Student, IT Consulting — Sybit GmbH
+
+**January 2023 – December 2024**
+
+* Supported process consulting and business-process modelling
+* Designed workshops and training sessions
+* Developed visual methods for process and customer-experience analysis
 
 ## Education
-### Hochschule Konstanz Technik Wirtschaft und Gestaltung (Oct 2023 - Present)
-- MSc in Computer Science
-- Focus: IT-Management
-- Specialization: Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Databases, Data Science, IT-Consulting
-  
-### Hochschule Furtwangen (Mar 2019 - Mar 2023)
-- BSc in Business Networks and e-Business
-- Focus: Databases, Programming, IT Project Management, ERP Systems
-- Bachelor Thesis: Optimizing Customer Experience through Customer Journey Mapping
 
-## Work Experience
-- Master Thesis - Uncertainty Estimation and Active Learning for Damage Detection (Mar 2025 - current)
-- Working Student in AI - Koerber Konstanz (Jan 2025 - Feb 2025)
-- Working Student - Sybit GmbH, Radolfzell am Bodensee (Jan 2023 - Dec 2024)
-- Bachelor Thesis Student - Sybit GmbH, Radolfzell am Bodensee (Sep 2022 - Dec 2022)
-- IT Consulting Intern - Sybit GmbH, Radolfzell am Bodensee (Mar 2022 - Sep 2022)
+### M.Sc. Computer Science — HTWG Konstanz
 
-## Currently Deepening My Knowledge In:
-- Uncertainty Estimation & Active Learning
-- Advanced Machine Learning & Deep Learning
-- Computer Vision
-- AI in Business Applications
+**October 2023 – October 2025**
 
-## My Certificates 
+* Specialization: IT Management
+* Final grade: 1.4
+* Master's thesis: *Uncertainty Estimation and Active Learning for Damage Detection*
+* Thesis grade: 1.3
 
-- Machine Learning von A-Z: Lerne Python & R für Data Science ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
-- Deep Learning, Neuronale Netze & AI: Der Komplettkurs ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
-- Linear Algebra ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
-- OpenCV ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?logo=udemy&logoColor=white&style=flat)
-  
+### B.Sc. Business Networks and e-Business — Furtwangen University
+
+**March 2019 – February 2023**
+
+* Final grade: 1.9
+* Bachelor's thesis focused on customer-experience optimization through customer journey mapping
+
+## Certificates
+
+* Machine Learning von A–Z: Python & R for Data Science
+* Deep Learning, Neural Networks & AI
+* Linear Algebra
+* OpenCV
+
 ## Languages
-- German: Native
-- English: Fluent (near-native proficiency)
 
-<!---
-tiffanykarolineblum/tiffanykarolineblum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* German — Native
+* English — Fluent, professional proficiency
+* Spanish — Basic
+
+
